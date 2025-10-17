@@ -1,0 +1,122 @@
+[
+  {
+    "id": "galaxy-001",
+    "title": "Samsung Galaxy S25 Ultra",
+    "image": "https://ibb.co.com/4ZNGHjqN",
+    "description": "The Galaxy S25 Ultra is a premium smartphone featuring a powerful processor, advanced camera system, and long-lasting battery life.",
+    "price": {
+      "amount": 1499,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "galaxy-002",
+    "title": "Samsung Galaxy S25+",
+    "image": "data:image/jpeg;base64,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",
+    "description": "This phone offers a large display and high performance, making it perfect for gaming and multitasking.",
+    "price": {
+      "amount": 1199,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "galaxy-003",
+    "title": "Samsung Galaxy S25",
+    "image": "https://via.placeholder.com/800x600?text=Galaxy+S25",
+    "description": "A compact and stylish smartphone designed for everyday use with smooth performance.",
+    "price": {
+      "amount": 999,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "galaxy-004",
+    "title": "Samsung Galaxy Z Fold5",
+    "image": "https://ibb.co.com/C3GvvGzq",
+    "description": "A foldable smartphone built for multitasking, productivity, and immersive entertainment.",
+    "price": {
+      "amount": 1799,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "galaxy-005",
+    "title": "Samsung Galaxy Z Flip5",
+    "image": "https://via.placeholder.com/800x600?text=Galaxy+Z+Flip5",
+    "description": "A compact foldable phone that combines style and portability for modern users.",
+    "price": {
+      "amount": 999,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "galaxy-006",
+    "title": "Samsung Galaxy A55",
+    "image": "https://via.placeholder.com/800x600?text=Galaxy+A55",
+    "description": "The Galaxy A55 features a bright display, solid camera, and reliable battery performance.",
+    "price": {
+      "amount": 349,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "galaxy-007",
+    "title": "Samsung Galaxy A35",
+    "image": "https://via.placeholder.com/800x600?text=Galaxy+A35",
+    "description": "A budget-friendly smartphone offering balanced performance and essential features.",
+    "price": {
+      "amount": 249,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "galaxy-008",
+    "title": "Samsung Galaxy M54",
+    "image": "https://via.placeholder.com/800x600?text=Galaxy+M54",
+    "description": "Designed with a massive battery and smooth performance for all-day usage.",
+    "price": {
+      "amount": 229,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "galaxy-009",
+    "title": "Samsung Galaxy M14",
+    "image": "https://via.placeholder.com/800x600?text=Galaxy+M14",
+    "description": "An affordable smartphone that handles daily tasks efficiently and reliably.",
+    "price": {
+      "amount": 129,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "galaxy-010",
+    "title": "Samsung Galaxy F54",
+    "image": "https://via.placeholder.com/800x600?text=Galaxy+F54",
+    "description": "A phone optimized for photography and media consumption with great visuals.",
+    "price": {
+      "amount": 299,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "galaxy-011",
+    "title": "Samsung Galaxy S24 FE",
+    "image": "https://via.placeholder.com/800x600?text=Galaxy+S24+FE",
+    "description": "The Fan Edition model that offers flagship features at a more affordable price.",
+    "price": {
+      "amount": 699,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "galaxy-012",
+    "title": "Samsung Galaxy A14",
+    "image": "https://via.placeholder.com/800x600?text=Galaxy+A14",
+    "description": "An entry-level smartphone perfect for new users with simple and smooth performance.",
+    "price": {
+      "amount": 119,
+      "currency": "USD"
+    }
+  }
+]

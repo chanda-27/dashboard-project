@@ -1,19 +1,20 @@
 import React from "react";
-import Card from "../components/Card";
 import useMobile from "../Hooks/useMobile";
+import Card from "../components/Card";
 
-const Cart = () => {
+const Home = () => {
   const { mobiles, error, loder } = useMobile();
+  const homeMobiles = mobiles.slice(0, 6);
   if (loder) return <div> loading ...</div>;
 
   return (
     <div className="py-4">
       {console.log(mobiles)}
-      {mobiles.map((mobile) => (
+      {homeMobiles.map((mobile) => (
         <Card mobile={mobile}></Card>
       ))}
     </div>
   );
 };
 
-export default Cart;
+export default Home;

@@ -3,7 +3,8 @@ import { createBrowserRouter } from "react-router";
 import MainLayout from "../MainLayout/MainLayout";
 import Cart from "../pages/Cart";
 import Wishlist from "../pages/Wishlist";
-import Home from "../components/Home";
+import Home from "../pages/Home";
+
 
 const Router = createBrowserRouter([
   {

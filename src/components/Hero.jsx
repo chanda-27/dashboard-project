@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router";
 
 const Hero = () => {
   return (
@@ -10,12 +11,12 @@ const Hero = () => {
           From smart devices to <br /> cool accessories — we’ve got it all!
         </p>
         <div>
-          <button className="px-6 font-semibold py-1 text-purple-600 text-sm rounded-full bg-white mr-2">
+          <Link to='/Cart' className="px-6 font-semibold py-1 text-purple-600 text-sm rounded-full bg-white mr-2">
             Cart
-          </button>
-          <button className="border border-white px-6 py-1 text-sm text-white rounded-full bg-purple-600 mr-2">
+          </Link>
+          <Link to='/wishlist' className="border border-white px-6 py-1 text-sm text-white rounded-full bg-purple-600 mr-2">
             Wishlist
-          </button>
+          </Link>
         </div>
       </div>
     </div>
